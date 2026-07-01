@@ -1,17 +1,27 @@
 # Student Management System
 
-A C-based project to manage student records and practice programming concepts.
+A mini project built in C to practice programming fundamentals and software development concepts.
 
 ## Features
 - Add Student
-- Display Student
+- View Student
 - Search Student
 - Delete Student
 
-## Technologies
-- C
+## Concepts Used
 - Structures
 - Functions
+- Input / Output
+- Modular Programming
 
-## Goal
-Practice programming logic and build foundational software development skills.
+## Files
+- main.c
+- add_student.c
+- view_student.c
+- search_student.c
+- delete_student.c
+
+## Future Improvements
+- File Storage
+- Dynamic Data
+- Menu System
